@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Metadata domain="rio_creation_kwds">
+    <MDI key="compress">lzw</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">6.2746758460999</MDI>
+      <MDI key="STATISTICS_MEAN">0.033444844942638</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0.23236276213623</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
